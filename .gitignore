@@ -1,0 +1,10 @@
+*.un~
+*.js~
+*.bak
+.serverless
+
+doc/
+test/
+plugins/
+.vs/
+.vscode/
